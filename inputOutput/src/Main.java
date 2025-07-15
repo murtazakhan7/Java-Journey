@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
 public class Main {
-  static  Scanner scanner = new Scanner(System.in);
+
     public static void main(String[] args) {
 
-
+        Scanner scanner = new Scanner(System.in);
         int age;
         double salary;
         boolean employed;
@@ -24,5 +24,7 @@ public class Main {
                 Salary: %f
                 Employed: %b
                 """, name,age,salary,employed);
+        scanner.close();
     }
+
 }

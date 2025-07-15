@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Journey.iml" filepath="$PROJECT_DIR$/.idea/Java-Journey.iml" />
       <module fileurl="file://$PROJECT_DIR$/if_statements/if_statements.iml" filepath="$PROJECT_DIR$/if_statements/if_statements.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dattypes/input_output.iml" filepath="$PROJECT_DIR$/dattypes/input_output.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inputOutput/input_output.iml" filepath="$PROJECT_DIR$/inputOutput/input_output.iml" />
     </modules>
   </component>
 </project>
