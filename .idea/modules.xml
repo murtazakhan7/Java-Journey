@@ -3,8 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Journey.iml" filepath="$PROJECT_DIR$/.idea/Java-Journey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functions/functions.iml" filepath="$PROJECT_DIR$/functions/functions.iml" />
       <module fileurl="file://$PROJECT_DIR$/if_statements/if_statements.iml" filepath="$PROJECT_DIR$/if_statements/if_statements.iml" />
       <module fileurl="file://$PROJECT_DIR$/inputOutput/input_output.iml" filepath="$PROJECT_DIR$/inputOutput/input_output.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/loops.iml" filepath="$PROJECT_DIR$/loops/loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string-methods/string-methods.iml" filepath="$PROJECT_DIR$/string-methods/string-methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switchstatements/switchstatements.iml" filepath="$PROJECT_DIR$/switchstatements/switchstatements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ternaryop-printf/ternaryop-printf.iml" filepath="$PROJECT_DIR$/ternaryop-printf/ternaryop-printf.iml" />
     </modules>
   </component>
 </project>
