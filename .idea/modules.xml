@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/Threading/Threading.iml" filepath="$PROJECT_DIR$/Threading/Threading.iml" />
       <module fileurl="file://$PROJECT_DIR$/array-list/array-list.iml" filepath="$PROJECT_DIR$/array-list/array-list.iml" />
       <module fileurl="file://$PROJECT_DIR$/functions/functions.iml" filepath="$PROJECT_DIR$/functions/functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashpmap/hashpmap.iml" filepath="$PROJECT_DIR$/hashpmap/hashpmap.iml" />
       <module fileurl="file://$PROJECT_DIR$/if_statements/if_statements.iml" filepath="$PROJECT_DIR$/if_statements/if_statements.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/inputOutput/input_output.iml" filepath="$PROJECT_DIR$/inputOutput/input_output.iml" />
